@@ -14,17 +14,7 @@ void GhiFileBin();
 
 int main() 
 {
-
-}
-
-void DaoChuoi()
-{
-    //......
-
-}
-
-
-    while (1)
+   while (1)
     {   
         printf("\n*****************************\n");     
         printf("CÁC CHỨC NĂNG CỦA CHƯƠNG TRÌNH:\n");
