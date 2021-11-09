@@ -11,13 +11,15 @@ void DocFileText();//Bạn C làm
 void GhiFileText();
 void DocFileBin();
 void GhiFileBin();
+int TimSoNT(int a, int b);// Minh
+int TongChan(int a, int b);// An
 
 int main() 
 {
    while (1)
     {   
         printf("\n*****************************\n");     
-        printf("CÁC CHỨC NĂNG CỦA CHƯƠNG TRÌNH:\n");
+        printf("VUI LÒNG CHỌN CÁC CHỨC NĂNG CỦA CHƯƠNG TRÌNH:\n");
         printf("- Nhấn số 1 -> Đảo chuỗi\n");
         printf("- Nhấn số 2 -> Tách chuỗi\n");
         printf("- Nhấn số 3 -> Lưu dữ liệu vào file Text\n");
